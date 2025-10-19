@@ -23,7 +23,7 @@ Criar uma plataforma web para ONGs com foco em:
 
 ## Acesso
 Acesse o projeto no GitHub Pages:  
-[https://seu-usuario.github.io/vida-verde/](https://seu-usuario.github.io/vida-verde/)
+https://github.com/jsilvasouzapb-droid/Ong_verde
 
 ---
 
